@@ -2,6 +2,8 @@
 
 A Model Context Protocol server that provides integration with Jira's REST API, allowing AI assistants to manage Jira issues programmatically.
 
+<a href="https://glama.ai/mcp/servers/2a6ts4367i"><img width="380" height="200" src="https://glama.ai/mcp/servers/2a6ts4367i/badge" alt="mcp-jira-server MCP server" /></a>
+
 ## Features
 
 This server provides tools for managing Jira issues:
