@@ -1,0 +1,7 @@
+{
+    "projectKey": "ABC",
+    "JIRA_EMAIL": "joe@acme.com",
+    "JIRA_API_TOKEN": "your API key",
+    "JIRA_DOMAIN": "Acme",
+    "storyPointsField": "customfield_10036"
+}
